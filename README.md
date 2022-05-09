@@ -1,5 +1,5 @@
 # Student-Management-System
-Student Management System written in C programming language. Problem Solving lab Project . 
+Student Management System written in C programming language. Spring2019, Problem Solving lab Project . 
 ## The code should have the following functions:
 1. Function searchStudentById( )
 
