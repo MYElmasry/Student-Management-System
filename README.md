@@ -1,6 +1,6 @@
 # Student-Management-System
 Student Management System written in C programming language. Spring2019, Problem Solving lab Project . 
-## The code should have the following functions:
+## The code have the following functions:
 1. Function searchStudentById( )
 
   Take student id then return a pointer to the desired student, or NULL if not found (using linear search).
